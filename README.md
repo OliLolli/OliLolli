@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OliLolli
 - 👀 I’m interested in Coding, Hardware & Software
-- 🌱 I’m currently learning React and Javascript
+- 🌱 I’m currently learning Python and ROS2
 - 💞️ I’m looking to collaborate on nothing so far
 - 📫 How to reach me oliver.kammel1@gmail.com
 
